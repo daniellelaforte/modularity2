@@ -1,0 +1,266 @@
+/* ADD YOUR STYLES HERE */
+.first > img{
+	padding: 20px;
+   
+}
+
+.first {
+	text-align: center;
+	 margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.second {
+	text-align: center;
+}
+.second > *{
+	padding: 20px;
+	display: inline-block;
+	vertical-align: top;
+	
+	
+
+}
+
+.second > ol{
+	padding-left: 67px;
+}
+
+/*.second > * {
+	padding: 20px;
+}*/
+
+.third {
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
+.fourth {
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
+.fifth {
+	position: relative;
+	margin: 0;
+
+list-style-type: none;
+
+}
+/*.fifth ul
+{padding-left: 0;}
+
+.fifth ul li{
+	 display: inline;
+}*/
+
+.but1 {
+
+	height: 75px;
+	width: 220px;
+	background-color: orange;
+	display: inline-block;
+	border-radius: 10px;
+	color: white;
+	font-size: 20px;
+	line-height: 75px;
+	vertical-align: middle;
+	text-decoration: none;
+	text-align: center;
+
+}
+
+.but2 {
+
+	height: 50px;
+	width: 100px;
+	background-color: orange;
+	display: inline-block;
+	border-radius: 10px;
+	color: white;
+	font-size: 16px;
+	line-height: 50px;
+	vertical-align: middle;
+	text-decoration: none;
+	text-align: center;
+	border: none;
+
+}
+
+.but3 {
+
+	height: 40px;
+	width: 70px;
+	background-color: orange;
+	display: inline-block;
+	border-radius: 10px;
+	color: white;
+	font-size: 10px;
+	line-height: 40px;
+	vertical-align: middle;
+	text-decoration: none;
+	text-align: center;
+	border: none;
+	
+}
+
+.sixth nav ul
+{padding-left: 0;}
+
+.sixth nav ul li{
+	 display: inline;
+	
+}
+
+nav ul li a:hover{
+	color: red;
+	background-color: salmon;
+	
+
+}
+
+
+nav ul li a{
+	height: 75px;
+	width: 100px;
+	background-color: orange;
+	display: inline-block;
+	border-radius: 10px;
+	color: white;
+	font-size: 20px;
+	line-height: 75px;
+	vertical-align: middle;
+	text-decoration: none;
+	text-align: center;
+}
+
+.pagination ol li
+{padding-left: 0;
+padding: 10px;}
+
+.pagination ol li{
+	 display: inline;
+}
+
+.pagination ol li a{
+	
+	color: salmon;
+	display: inline-block;
+	font-size: 16px;
+	text-decoration: none;
+	border-bottom: 3px solid salmon;
+	padding-bottom: 3px;
+	width: 30px;
+	height: 30px;
+	background-color: white;
+	text-align: center;
+	
+}
+
+.pagination ol li span{
+	
+	color: grey;
+	display: inline-block;
+	font-size: 16px;
+	text-decoration: none;
+	border-bottom: 3px solid grey;
+	padding-bottom: 3px;
+	width: 30px;
+	height: 30px;
+	background-color: white;
+	text-align: center;
+	
+}
+
+#bug {
+	border-bottom: none;
+}
+
+.two {
+	float: left;
+	overflow: hidden;
+	padding-bottom: 10px;
+	position: relative;
+	
+}
+/*.fourth {
+	float: left;
+	overflow: hidden;
+	padding: 0;
+	
+}*/
+
+.three {
+	
+	padding-left: 10px;
+	display: inline;
+}
+
+.one {
+	display: flex;
+	
+	padding: 0;
+	
+}
+
+/*.three p {
+
+	position: relative;
+	left: 10px;
+}
+*/
+
+
+
+
+
+}
+#red {
+	position: relative;
+	padding-left: 10px;
+	list-style-type: none;
+
+}
+
+.liy{
+	 
+	 border: 1px solid grey;
+	 padding: 4px;
+	 display: inline-block;
+	 border-radius: 5px 5px 0 0;
+	 position: relative;
+	 border-bottom: white;}
+	 
+.th {
+	border-bottom: 1px solid white;
+	background-color: white;
+	z-index: 2;
+
+}	
+	
+
+
+
+
+.liy a {
+text-decoration: none;
+color: blue;
+ font-family: arial;
+}
+
+.texttabs {
+	height: 170px;
+	width: 710px;
+	border: 1px solid grey;
+	border-radius: 5px;
+	padding: 15px;
+	z-index: 1;
+	position: relative;
+	top: -1px;
+}
+
+#red {
+	padding-left: 10px;
+}
+
